@@ -1,0 +1,6 @@
+{
+  "timestamp": "2024-07-03T09:00:58.866+00:00",
+  "status": 500,
+  "error": "Internal Server Error",
+  "path": "/provider/add"
+}
