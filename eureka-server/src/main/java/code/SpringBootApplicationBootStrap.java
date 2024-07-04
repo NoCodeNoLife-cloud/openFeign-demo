@@ -9,11 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 
 @Slf4j
-// @EnableEurekaServer is an annotation that enables the Eureka server.
 @EnableEurekaServer
-
-// @EnableDubbo is an annotation that enables the Dubbo server.
-// @EnableDubbo
 @SpringBootApplication
 public class SpringBootApplicationBootStrap {
 	/**

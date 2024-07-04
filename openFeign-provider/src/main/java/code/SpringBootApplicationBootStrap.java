@@ -10,14 +10,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
 @Slf4j
-// @EnableEurekaServer is an annotation that enables the Eureka server.
-// @EnableEurekaServer
 @EnableDiscoveryClient
-
-// @EnableDubbo is an annotation that enables the Dubbo server.
-// @EnableDubbo
-
-// @EnableHystrix
 @SpringBootApplication
 public class SpringBootApplicationBootStrap {
 	/**

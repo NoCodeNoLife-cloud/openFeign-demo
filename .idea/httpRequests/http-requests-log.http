@@ -4,6 +4,16 @@ Accept-Encoding: br, deflate, gzip, x-gzip
 Accept: */*
 content-length: 0
 
+<> 2024-07-03T212509.200.txt
+
+###
+
+GET http://localhost:9081/say
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
 <> 2024-07-03T171141.200.txt
 
 ###

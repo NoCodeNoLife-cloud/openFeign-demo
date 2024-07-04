@@ -72,44 +72,45 @@
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.hystrix-demo [clean].executor": "Run",
-    "Gradle.openFeign-demo [build].executor": "Run",
-    "Gradle.构建 hystrix-demo.executor": "Run",
-    "Gradle.构建 openFeign-demo.executor": "Run",
-    "HTTP 请求.SpringBootApplicationBootStrap | #1.executor": "Run",
-    "HTTP 请求.SpringBootApplicationBootStrap | #2.executor": "Run",
-    "HTTP 请求.SpringBootApplicationBootStrap | #3.executor": "Run",
-    "HTTP 请求.generated-requests | #1.executor": "Run",
-    "HTTP 请求.generated-requests | #2.executor": "Run",
-    "HTTP 请求.generated-requests | #3.executor": "Run",
-    "HTTP 请求.generated-requests | #4.executor": "Run",
-    "HTTP 请求.generated-requests | #5.executor": "Run",
-    "HTTP 请求.generated-requests | #6.executor": "Run",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "Spring Boot.SpringBootApplicationBootStrap (1).executor": "Run",
-    "Spring Boot.SpringBootApplicationBootStrap (2).executor": "Run",
-    "Spring Boot.SpringBootApplicationBootStrap.executor": "Run",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/project/openFeign-demo/hystrix-provider/build.gradle.kts",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "模块",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.hystrix-demo [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.openFeign-demo [build].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.openFeign-demo [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.构建 hystrix-demo.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.构建 openFeign-demo.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP 请求.SpringBootApplicationBootStrap | #1.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP 请求.SpringBootApplicationBootStrap | #2.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP 请求.SpringBootApplicationBootStrap | #3.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP 请求.generated-requests | #1.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP 请求.generated-requests | #2.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP 请求.generated-requests | #3.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP 请求.generated-requests | #4.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP 请求.generated-requests | #5.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP 请求.generated-requests | #6.executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.SpringBootApplicationBootStrap (1).executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.SpringBootApplicationBootStrap (2).executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.SpringBootApplicationBootStrap.executor&quot;: &quot;Run&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/project/openFeign-demo/hystrix-provider/build.gradle.kts&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
   </component>
@@ -144,18 +145,8 @@
     <configuration name="generated-requests | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" requestIdentifier="#1" runType="运行单个请求">
       <method v="2" />
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="openFeign-demo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="openFeign-demo" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="generated-requests | #2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="2" requestIdentifier="#2" runType="运行单个请求">
+      <method v="2" />
     </configuration>
     <configuration name="SpringBootApplicationBootStrap (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="openFeign-demo.openFeign-provider.main" />
@@ -193,6 +184,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.SpringBootApplicationBootStrap" />
+        <item itemvalue="HTTP 请求.generated-requests | #2" />
         <item itemvalue="Spring Boot.SpringBootApplicationBootStrap (1)" />
         <item itemvalue="Gradle.openFeign-demo [build]" />
         <item itemvalue="HTTP 请求.generated-requests | #1" />
@@ -218,6 +210,7 @@
       <workItem from="1719980018437" duration="937000" />
       <workItem from="1719983149734" duration="12008000" />
       <workItem from="1719998396279" duration="842000" />
+      <workItem from="1720013055765" duration="314000" />
     </task>
     <servers />
   </component>

@@ -15,10 +15,8 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.web.client.RestTemplate;
 
 @Slf4j
-// @EnableEurekaServer
 @EnableDiscoveryClient
 @EnableFeignClients
-// @EnableDubbo
 @SpringBootApplication
 public class SpringBootApplicationBootStrap {
 	/**
